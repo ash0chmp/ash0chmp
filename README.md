@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashish Agrawal
-- 👀 I’m interested in C/CPP
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning Data Structre and Algorithms
-- 💞️ I’m looking to collaborate on CPP projects
+- 💞️ I’m looking to collaborate on Frontend projects
 - 📫 How to reach me mail me at aashishagrawal8979@gmail.com
 
 <!---
